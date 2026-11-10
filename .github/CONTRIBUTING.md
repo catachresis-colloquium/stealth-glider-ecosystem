@@ -3,7 +3,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 Copyright (c) Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
 -->
 # Clone the repository
-git clone https://github.com/metadatastician/stealth-glider-ecosystem.git
+git clone https://github.com/catachresis-colloquium/stealth-glider-ecosystem.git
 cd stealth-glider-ecosystem
 
 # Using Guix (recommended for reproducibility)
@@ -71,10 +71,10 @@ Use the [feature request template](.github/ISSUE_TEMPLATE/feature_request.md) an
 
 Look for issues labelled:
 
-- [`good first issue`](https://github.com/metadatastician/stealth-glider-ecosystem/labels/good%20first%20issue) — Simple Perimeter 3 tasks
-- [`help wanted`](https://github.com/metadatastician/stealth-glider-ecosystem/labels/help%20wanted) — Community help needed
-- [`documentation`](https://github.com/metadatastician/stealth-glider-ecosystem/labels/documentation) — Docs improvements
-- [`perimeter-3`](https://github.com/metadatastician/stealth-glider-ecosystem/labels/perimeter-3) — Community sandbox scope
+- [`good first issue`](https://github.com/catachresis-colloquium/stealth-glider-ecosystem/labels/good%20first%20issue) — Simple Perimeter 3 tasks
+- [`help wanted`](https://github.com/catachresis-colloquium/stealth-glider-ecosystem/labels/help%20wanted) — Community help needed
+- [`documentation`](https://github.com/catachresis-colloquium/stealth-glider-ecosystem/labels/documentation) — Docs improvements
+- [`perimeter-3`](https://github.com/catachresis-colloquium/stealth-glider-ecosystem/labels/perimeter-3) — Community sandbox scope
 
 ---
 

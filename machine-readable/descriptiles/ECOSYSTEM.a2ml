@@ -18,7 +18,7 @@ what-this-is-not = [
 position = "coordination hub (outside the chain)"
 chain = "f19-stealth-glider -> f117a-stealth-glider -> sr71-blackglider -> x15-rocket-glider -> planer-1 -> enterglide-ncc-137-k -> tardis-rule-disruption"
 notes = "The chain string above is canonical. Every member's own ECOSYSTEM.a2ml must carry it verbatim and name this repository as coordination; scripts/check-membership.sh enforces both."
-coordination = "metadatastician/stealth-glider-ecosystem"
+coordination = "catachresis-colloquium/stealth-glider-ecosystem"
 
 [members]
 # One entry per chain position, in order. group: shipped | in-progress | reserved.

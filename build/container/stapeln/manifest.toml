@@ -16,11 +16,11 @@ cerro-torre .ctp bundle with Ed25519 signing and full provenance
 tracking.
 """
 license = "MPL-2.0"
-homepage = "https://github.com/metadatastician/stealth-glider-ecosystem"
+homepage = "https://github.com/catachresis-colloquium/stealth-glider-ecosystem"
 maintainer = "Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>"
 
 [provenance]
-upstream = "https://github.com/metadatastician/stealth-glider-ecosystem"
+upstream = "https://github.com/catachresis-colloquium/stealth-glider-ecosystem"
 import_date = 2026-09-02T00:00:00Z
 
 [dependencies]

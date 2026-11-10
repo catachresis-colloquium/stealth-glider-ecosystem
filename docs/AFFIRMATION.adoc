@@ -83,7 +83,7 @@ file. Bring a counter-example, a failing run, or a contradicting source.
 [cols="1,3"]
 |===
 | Project | Stealth Glider Ecosystem
-| Repository | https://github.com/metadatastician/stealth-glider-ecosystem
+| Repository | https://github.com/catachresis-colloquium/stealth-glider-ecosystem
 | Commit (SHA) | <full commit SHA at time of signing>
 | Branch | main
 | Timestamp (UTC) | <ISO-8601 UTC timestamp>

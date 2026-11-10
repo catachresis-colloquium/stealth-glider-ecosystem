@@ -84,8 +84,8 @@ FROM cgr.dev/chainguard/wolfi-base:latest
 # OCI image labels (compatible with cerro-torre .ctp bundle metadata)
 LABEL org.opencontainers.image.title="Stealth Glider Ecosystem" \
       org.opencontainers.image.description="Coordination hub for the Stealth Glider line: holds the canonical seven-stage chain, the membership manifest and the series roadmap. Manifest only; the games live in their own repositories." \
-      org.opencontainers.image.url="https://github.com/metadatastician/stealth-glider-ecosystem" \
-      org.opencontainers.image.source="https://github.com/metadatastician/stealth-glider-ecosystem" \
+      org.opencontainers.image.url="https://github.com/catachresis-colloquium/stealth-glider-ecosystem" \
+      org.opencontainers.image.source="https://github.com/catachresis-colloquium/stealth-glider-ecosystem" \
       org.opencontainers.image.vendor="metadatastician" \
       org.opencontainers.image.licenses="MPL-2.0" \
       org.opencontainers.image.authors="Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>" \

@@ -7,8 +7,8 @@ authors:
 title: "Stealth Glider Ecosystem"
 version: 0.1.0
 date-released: "2026-09-02"
-url: "https://github.com/metadatastician/stealth-glider-ecosystem"
-repository-code: "https://github.com/metadatastician/stealth-glider-ecosystem"
+url: "https://github.com/catachresis-colloquium/stealth-glider-ecosystem"
+repository-code: "https://github.com/catachresis-colloquium/stealth-glider-ecosystem"
 license: MPL-2.0
 keywords:
   - "rsr"

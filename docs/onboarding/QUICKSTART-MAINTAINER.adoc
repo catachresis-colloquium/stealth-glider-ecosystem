@@ -19,7 +19,7 @@ UNASSIGNED
 
 [source,bash]
 ----
-git clone https://github.com/metadatastician/stealth-glider-ecosystem.git
+git clone https://github.com/catachresis-colloquium/stealth-glider-ecosystem.git
 cd stealth-glider-ecosystem
 just build-release
 ----
@@ -119,5 +119,5 @@ Each instance has isolated config, data, and logs.
 
 == Reporting Issues
 
-* Upstream: https://github.com/metadatastician/stealth-glider-ecosystem/issues
+* Upstream: https://github.com/catachresis-colloquium/stealth-glider-ecosystem/issues
 * With diagnostic: `just help-me` (pre-fills context)
