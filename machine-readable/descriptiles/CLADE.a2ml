@@ -15,7 +15,7 @@
 # fact anyone can recompute and check — never copy one from another repo, and
 # never make one up. Recompute this one any time with:
 #
-#     uuidgen --sha1 --namespace @url --name "github.com/metadatastician/stealth-glider-ecosystem"
+#     uuidgen --sha1 --namespace @url --name "github.com/catachresis-colloquium/stealth-glider-ecosystem"
 #
 # Verify the method first by reproducing a known worked example:
 #     janus example -> e216170e-ff47-5a5c-bbdd-15e61c8190c8
@@ -23,9 +23,9 @@
 # The owner segment is part of the derived name, so it is part of the IDENTITY:
 # the same repo hosted under a different owner has a different uuid. Record the
 # owner that is TRUE TODAY, and re-derive if it ever moves.
-uuid = "c6eab5fc-ff7e-51c8-9710-955959e07be7"
+uuid = "79c1cead-4f6c-50c2-bf0c-d99fbb4eff27"
 primary-forge = "github"
-primary-owner = "metadatastician"
+primary-owner = "catachresis-colloquium"
 canonical-name = "stealth-glider-ecosystem"
 prefixed-name = "gm-stealth-glider-ecosystem"
 
@@ -83,7 +83,7 @@ assigned = "2026-09-02"
 rationale = "Coordination hub of the Stealth Glider line; takes the line's domain clade (existing hubs carry their domain clade, not a hub code)."
 
 [forges]
-github = "metadatastician/stealth-glider-ecosystem"
+github = "catachresis-colloquium/stealth-glider-ecosystem"
 gitlab = ""       # populated if/when mirrored
 bitbucket = ""    # populated if/when mirrored
 

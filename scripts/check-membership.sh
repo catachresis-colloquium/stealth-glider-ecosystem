@@ -12,7 +12,7 @@
 set -euo pipefail
 cd "$(dirname "${BASH_SOURCE[0]}")/.."
 manifest="${MEMBERSHIP_MANIFEST:-machine-readable/descriptiles/ECOSYSTEM.a2ml}"
-expected_hub="metadatastician/stealth-glider-ecosystem"
+expected_hub="catachresis-colloquium/stealth-glider-ecosystem"
 failures=0
 fail() { printf 'membership error: %s\n' "$1" >&2; failures=$((failures + 1)); }
 

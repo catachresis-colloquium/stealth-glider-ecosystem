@@ -10,5 +10,5 @@
 Contact: mailto:j.d.a.jewell@open.ac.uk
 Expires: 2026-12-31T23:59:59.000Z
 Preferred-Languages: en
-Canonical: https://github.com/metadatastician/stealth-glider-ecosystem/.well-known/security.txt
-Policy: https://github.com/metadatastician/stealth-glider-ecosystem/blob/main/.github/SECURITY.md
+Canonical: https://github.com/catachresis-colloquium/stealth-glider-ecosystem/.well-known/security.txt
+Policy: https://github.com/catachresis-colloquium/stealth-glider-ecosystem/blob/main/.github/SECURITY.md

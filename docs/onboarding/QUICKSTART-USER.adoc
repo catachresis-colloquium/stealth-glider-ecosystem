@@ -38,7 +38,7 @@ Before you begin, ensure you have:
 [source,bash]
 ----
 # Clone and set up
-git clone https://github.com/metadatastician/stealth-glider-ecosystem.git
+git clone https://github.com/catachresis-colloquium/stealth-glider-ecosystem.git
 cd stealth-glider-ecosystem
 just setup
 ----
@@ -103,7 +103,7 @@ just heal
 * **In-app**: `just run --help`
 * **Guided tour**: `just tour`
 * **Report a problem**: `just help-me` (pre-fills diagnostic context)
-* **Wiki**: https://github.com/metadatastician/stealth-glider-ecosystem/wiki
+* **Wiki**: https://github.com/catachresis-colloquium/stealth-glider-ecosystem/wiki
 
 == Uninstall
 
