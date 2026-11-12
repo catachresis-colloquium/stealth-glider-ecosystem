@@ -59,7 +59,7 @@ TypeScript is permitted under Bun. The "use ReScript" rule is retired — ReScri
 
 # This repo: `stealth-glider-ecosystem`  ·  clade `gm-stealth-glider-ecosystem`
 
-- **Identity** — uuid `79c1cead-4f6c-50c2-bf0c-d99fbb4eff27`; clade `gm` (secondary ``); born 2026-09-02; forge `catachresis-colloquium/stealth-glider-ecosystem`.
+- **Identity** — uuid `c6eab5fc-ff7e-51c8-9710-955959e07be7`; clade `gm` (secondary ``); born 2026-09-02; forge `catachresis-colloquium/stealth-glider-ecosystem`.
 - **IS** — Coordination hub for the Stealth Glider line: holds the canonical seven-stage chain, the membership manifest and the series roadmap. Manifest only; the games live in their own repositories.
 - **IS-NOT** — a game · a monorepo of the games · a submodule tree · the estate registry (that is gv-clade-index)
 - **Where it sits** — pipeline position **coordination hub (outside the chain)**; chain `f19-stealth-glider -> f117a-stealth-glider -> sr71-blackglider -> x15-rocket-glider -> planer-1 -> enterglide-ncc-137-k -> tardis-rule-disruption`; coordination = `catachresis-colloquium/stealth-glider-ecosystem`.
